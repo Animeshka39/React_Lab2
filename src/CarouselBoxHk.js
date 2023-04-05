@@ -14,33 +14,33 @@ class CarouselBoxHk extends Component {
                     <img
                         className="d-block w-100"
                         src={slaid1}
-                        alt="Ocean" />
+                        alt="AE86" />
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
                         src={slaid2}
-                        alt="Mushrooms"/>
+                        alt="AE86"/>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
                         src={slaid3}
-                        alt="Mushrooms"/>
+                        alt="AE86"/>
                 </Carousel.Item>
 
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
                         src={slaid4}
-                        alt="Mushrooms"/>
+                        alt="AE86"/>
                 </Carousel.Item>
 
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
                         src={slaid5}
-                        alt="Mushrooms"/>
+                        alt="AE86"/>
                 </Carousel.Item>
             </Carousel>
         );
